@@ -1,6 +1,5 @@
 # Personal-Portfolio
 Creating My first personal portfolio
-====HI====
 
 I currently learning Web Development during the making of this Portfolio.
 
